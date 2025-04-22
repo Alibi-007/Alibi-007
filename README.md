@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on an interesting project!
+- 🌱 I’m currently learning data bases with PostgreSQL server.
 <!--
 **Alibi-007/Alibi-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
